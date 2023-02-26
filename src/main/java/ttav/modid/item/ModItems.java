@@ -12,7 +12,9 @@ import net.minecraft.util.Identifier;
 import ttav.modid.ttavMod;
 
 public class ModItems {
-    public static final Item REFINED_AESIR = registerItem("refined_aesir",
+    public static final Item REFINED_AESIR_INGOT = registerItem("refined_aesir_ingot",
+            new Item(new FabricItemSettings()));
+    public static final Item REFINED_AESIR= registerItem("refined_aesir",
             new Item(new FabricItemSettings()));
 
     private static Item registerItem(String name, Item item) {
@@ -20,6 +22,7 @@ public class ModItems {
     }
 
     public static void addItemsToItemGroup(){
+        addToItemGroup(ItemGroups.INGREDIENTS, REFINED_AESIR_INGOT);
         addToItemGroup(ItemGroups.INGREDIENTS, REFINED_AESIR);
     }
 
