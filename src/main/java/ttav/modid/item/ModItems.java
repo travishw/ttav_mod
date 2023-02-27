@@ -24,6 +24,8 @@ public class ModItems {
     public static void addItemsToItemGroup(){
         addToItemGroup(ItemGroups.INGREDIENTS, REFINED_AESIR_INGOT);
         addToItemGroup(ItemGroups.INGREDIENTS, REFINED_AESIR);
+        addToItemGroup(ModItemGroup.AESIR, REFINED_AESIR_INGOT);
+        addToItemGroup(ModItemGroup.AESIR, REFINED_AESIR);
     }
 
     private static void addToItemGroup(ItemGroup group, Item item) {
