@@ -4,6 +4,7 @@ import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
+import net.minecraft.block.Blocks;
 import net.minecraft.block.Material;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -17,6 +18,8 @@ import ttav.modid.ttavMod;
 public class ModBlocks {
     public static final Block BLOCK_OF_REFINED_AESIR = registerBlock("block_of_refined_aesir",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).requiresTool()), ModItemGroup.AESIR);
+    public static final Block GOLDEN_MARBLE = registerBlock("golden_marble",
+    new Block(FabricBlockSettings.copyOf(Blocks.WARPED_NYLIUM).strength(0.4f).requiresTool()), ModItemGroup.AESIR);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup group){
