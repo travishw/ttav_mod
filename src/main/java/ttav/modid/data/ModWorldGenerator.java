@@ -2,6 +2,7 @@ package ttav.modid.data;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricDynamicRegistryProvider;
+import net.fabricmc.fabric.impl.dimension.FabricDimensionInternals;
 import net.minecraft.registry.RegistryWrapper;
 import ttav.modid.ttavMod;
 

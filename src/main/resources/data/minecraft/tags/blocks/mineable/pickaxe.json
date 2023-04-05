@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ttavmod:block_of_refined_aesir",
+    "ttavmod:marble",
+    "ttavmod:golden_marble",
+    "ttavmod:concentrated_aesir"
+  ]
+}

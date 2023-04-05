@@ -1,5 +1,18 @@
 {
   "item.ttavmod.refined_aesir_ingot": "Refined Aesir Ingot",
   "item.ttavmod.refined_aesir": "Refined Aesir",
-  "block.ttavmod.block_of_refined_aesir": "Block of Refined Aesir"
+  "item.ttavmod.chunk_of_raw_aesir": "Chunk of Raw Aesir",
+  "item.ttavmod.refined_aesir_helmet": "Refined Aesir Helmet",
+  "item.ttavmod.refined_aesir_chestplate": "Refined Aesir Chestplate",
+  "item.ttavmod.refined_aesir_leggings": "Refined Aesir Leggings",
+  "item.ttavmod.refined_aesir_boots": "Refined Aesir Boots",
+  "block.ttavmod.block_of_refined_aesir": "Block of Refined Aesir",
+  "block.ttavmod.marble": "Marble",
+  "block.ttavmod.golden_marble": "Golden Marble",
+  "item.ttavmod.refined_aesir_pickaxe": "Refined Aesir Pickaxe",
+  "item.ttavmod.refined_aesir_axe": "Refined Aesir Axe",
+  "item.ttavmod.refined_aesir_sword": "Refined Aesir Sword",
+  "item.ttavmod.refined_aesir_shovel": "Refined Aesir Shovel",
+  "item.ttavmod.refined_aesir_hoe": "Refined Aesir Hoe"
+
 }

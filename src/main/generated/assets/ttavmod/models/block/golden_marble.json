@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "ttavmod:block/golden_marble_bottom",
+    "side": "ttavmod:block/golden_marble_side",
+    "top": "ttavmod:block/golden_marble_top"
+  }
+}

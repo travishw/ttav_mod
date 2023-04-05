@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ttavmod:item/chunk_of_raw_aesir"
+  }
+}

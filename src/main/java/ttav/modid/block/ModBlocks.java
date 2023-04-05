@@ -6,6 +6,7 @@ import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.block.Material;
+import net.minecraft.block.NyliumBlock;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
@@ -19,7 +20,11 @@ public class ModBlocks {
     public static final Block BLOCK_OF_REFINED_AESIR = registerBlock("block_of_refined_aesir",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).requiresTool()), ModItemGroup.AESIR);
     public static final Block GOLDEN_MARBLE = registerBlock("golden_marble",
-    new Block(FabricBlockSettings.copyOf(Blocks.WARPED_NYLIUM).strength(0.4f).requiresTool()), ModItemGroup.AESIR);
+            new NyliumBlock(FabricBlockSettings.copyOf(Blocks.CRIMSON_NYLIUM).strength(4.0f).requiresTool()),ModItemGroup.AESIR);
+    public static final Block MARBLE = registerBlock("marble",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).requiresTool()), ModItemGroup.AESIR);
+    public static final Block CONCENTRATED_AESIR = registerBlock("concentrated_aesir",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).requiresTool()), ModItemGroup.AESIR);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup group){

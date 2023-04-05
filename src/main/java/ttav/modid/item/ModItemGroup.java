@@ -14,6 +14,6 @@ public class ModItemGroup {
     public static void registerItemGroups(){
         AESIR = FabricItemGroup.builder(new Identifier(ttavMod.MOD_ID, "aesir"))
                 .displayName(Text.literal("The Aesir"))
-                .icon(() -> new ItemStack(ModItems.REFINED_AESIR)).build();
+                .icon(() -> new ItemStack(ModItems.CHUNK_OF_RAW_AESIR)).build();
     }
 }

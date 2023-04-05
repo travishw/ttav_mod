@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 3.0,
+  "group": "aesir",
+  "ingredient": {
+    "item": "ttavmod:chunk_of_raw_aesir"
+  },
+  "result": "ttavmod:refined_aesir"
+}

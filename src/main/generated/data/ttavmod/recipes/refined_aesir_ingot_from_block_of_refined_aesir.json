@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "refined_aesir_ingot",
+  "ingredients": [
+    {
+      "item": "ttavmod:block_of_refined_aesir"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "ttavmod:refined_aesir_ingot"
+  }
+}

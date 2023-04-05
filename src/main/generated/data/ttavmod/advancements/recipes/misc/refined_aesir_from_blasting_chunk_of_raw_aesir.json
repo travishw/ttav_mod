@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chunk_of_raw_aesir": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ttavmod:chunk_of_raw_aesir"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:refined_aesir_from_blasting_chunk_of_raw_aesir"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_chunk_of_raw_aesir",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:refined_aesir_from_blasting_chunk_of_raw_aesir"
+    ]
+  }
+}
