@@ -57,5 +57,7 @@ public class ModRecipeGenerator extends FabricRecipeProvider {
         offerAesirUpgradeRecipe(exporter, Items.NETHERITE_HOE, RecipeCategory.COMBAT, ModItems.REFINED_AESIR_HOE);
 
 
+
+
     }
 }
