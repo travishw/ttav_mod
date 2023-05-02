@@ -1,15 +1,15 @@
-// 1.19.3	2023-03-31T09:35:05.6824567	ttav's Mod/Model Definitions
+// 1.19.3	2023-05-02T14:53:34.6975251	ttav's Mod/Model Definitions
 e0b7de3907172977f86833be666d11b6140c6c1d assets\ttavmod\blockstates\block_of_refined_aesir.json
-1a445ccaa6748ca19b4f933a0b1fe40d5c661d53 assets\ttavmod\models\item\refined_aesir_sword.json
-bc2f60c516f2c6fb7e0bea3a2529981b2915f181 assets\ttavmod\models\item\refined_aesir_pickaxe.json
+91ed234573dba61cca41cd4efccf35bf7a796d52 assets\ttavmod\models\item\refined_aesir_sword.json
+3da66b7580e7159a97a34503b14854c8b4b3316a assets\ttavmod\models\item\refined_aesir_pickaxe.json
 37d89623dddf629fb9a348e4e643c990a1e21303 assets\ttavmod\models\item\refined_aesir_boots.json
 d1c2c296388720aa7a4e502dd1ba5048bec14cba assets\ttavmod\models\item\chunk_of_raw_aesir.json
-e9791105c0f35b7bc59d3c965401c155a15ffbb9 assets\ttavmod\models\item\refined_aesir_axe.json
+525e1581b8f324f1800f22d364d4a79f79341e26 assets\ttavmod\models\item\refined_aesir_axe.json
 11d86c734f73b27e805bd864e4ef11c77b77c33e assets\ttavmod\models\block\concentrated_aesir.json
 d8aa23bdd9c853c988d3dbe14a1fe9d021719ca0 assets\ttavmod\models\block\block_of_refined_aesir.json
 109653f02007ad838bac0e5be901388c7492653b assets\ttavmod\models\item\refined_aesir_helmet.json
 73027dbf6e546f45c371877f91f890e9e7cea64a assets\ttavmod\models\item\refined_aesir.json
-4d3ac5b6cd61eac3d556b94e951c6f422bd03164 assets\ttavmod\models\item\refined_aesir_shovel.json
+54a1701e754bb0edd98a0baf4588b85af6d92e85 assets\ttavmod\models\item\refined_aesir_shovel.json
 b9e6a49cf22b2462768555b057fc417d714a4c0f assets\ttavmod\models\item\concentrated_aesir.json
 ca1deca64c57c455a0c84846af17725fda593df7 assets\ttavmod\models\item\golden_marble.json
 c19f1c156179c677df47e536cabe65dc7d8ff30c assets\ttavmod\models\block\marble.json
@@ -17,8 +17,8 @@ a4195dd0ec9a219601e129dc8e9bbcdbc5253aed assets\ttavmod\models\item\refined_aesi
 1d1eee2250560177a58ec8f468e0beb5820a8aab assets\ttavmod\models\item\refined_aesir_chestplate.json
 22db93805c238d5a777cf8e6da97a319d3edb528 assets\ttavmod\blockstates\marble.json
 24c13f64d70d35d4e6d156612db677853511ba59 assets\ttavmod\models\item\block_of_refined_aesir.json
+4a4b41fb1609b504b521b87af9933bd9116c75b4 assets\ttavmod\models\item\refined_aesir_hoe.json
 c2fc6681e6c442fb4cdccb4e0740ea6517ed4b55 assets\ttavmod\models\item\marble.json
-ba056f22c47d79a5944bc4f2a59835b5fb7bbdd2 assets\ttavmod\models\item\refined_aesir_hoe.json
 c432a273c64776700f39b3d457eb7d3926c890e9 assets\ttavmod\models\block\golden_marble.json
 80be956c978c53f6c58e033204f00c298e45158f assets\ttavmod\blockstates\concentrated_aesir.json
 950e110bbdb9f848d08eefed1332f5ff744973ff assets\ttavmod\blockstates\golden_marble.json

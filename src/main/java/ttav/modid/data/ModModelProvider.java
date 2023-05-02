@@ -34,11 +34,11 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.REFINED_AESIR_CHESTPLATE, Models.GENERATED);
         itemModelGenerator.register(ModItems.REFINED_AESIR_LEGGINGS, Models.GENERATED);
         itemModelGenerator.register(ModItems.REFINED_AESIR_BOOTS, Models.GENERATED);
-        itemModelGenerator.register(ModItems.REFINED_AESIR_PICKAXE, Models.GENERATED);
-        itemModelGenerator.register(ModItems.REFINED_AESIR_AXE, Models.GENERATED);
-        itemModelGenerator.register(ModItems.REFINED_AESIR_SWORD, Models.GENERATED);
-        itemModelGenerator.register(ModItems.REFINED_AESIR_SHOVEL, Models.GENERATED);
-        itemModelGenerator.register(ModItems.REFINED_AESIR_HOE, Models.GENERATED);
+        itemModelGenerator.register(ModItems.REFINED_AESIR_PICKAXE, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.REFINED_AESIR_AXE, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.REFINED_AESIR_SWORD, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.REFINED_AESIR_SHOVEL, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.REFINED_AESIR_HOE, Models.HANDHELD);
 
     }
 
